@@ -1,0 +1,9 @@
+package org.kh.site;
+//증감 연산 : ++, -- => 전위 연산, 후위 연산이 각 각 있음
+public class Operation4 {
+	public static void main(String[] args) {
+		int a = 10;
+		int b = 10;
+		
+	}
+}

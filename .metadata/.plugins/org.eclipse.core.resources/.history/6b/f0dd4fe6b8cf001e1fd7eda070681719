@@ -1,0 +1,13 @@
+package org.kh.java;
+//형 변환1(Auto Casting, Force Casting) = type conversion
+public class Casting1 {
+	public static void main(String[] args) {
+		
+		byte b = 20;	//1byte
+		short s = b;	//2byte : byte => short
+		int i = s;		//4byte : short => int
+		long l = i;		//8byte : int => long
+		
+		int i2 = l;
+	}
+}

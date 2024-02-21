@@ -1,0 +1,8 @@
+package org.kh.java;
+
+public class Variable3 {
+	public static void main(String[] args) {
+		int bin = 0b10111;	//2진수 데이터 입력시 해당 숫자 앞에 0b로 시작
+		System.out.println("bin="+bin);
+	}
+}

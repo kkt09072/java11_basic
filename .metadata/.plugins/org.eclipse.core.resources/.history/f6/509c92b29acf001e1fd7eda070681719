@@ -1,0 +1,8 @@
+package org.kh.java;
+
+public class Variable3 {
+	public static void main(String[] args) {
+		int bin = 0b10111;
+		System.out.println("bin="+bin);
+	}
+}

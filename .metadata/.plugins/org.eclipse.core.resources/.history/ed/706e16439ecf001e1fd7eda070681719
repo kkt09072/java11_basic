@@ -1,0 +1,18 @@
+package org.kh.java;
+
+public class Variable3 {
+	public static void main(String[] args) {
+		int bin = 0b10111;	//2진수 데이터 입력시 해당 숫자 앞에 0b로 시작
+		int oct = 03647;	//8진수 데이터 입력시 해당 숫자 앞에 0으로 시작
+		int dec = 3650;		//10진수 데이터 입력시 해당 숫자만 입력
+		int hex = 0x2c8;	//16진수 데이터 입력시 해당 숫자 앞에 0x로 시작
+		System.out.println("bin="+bin);
+		System.out.println("oct="+oct);
+		System.out.println("dec="+dec);
+		System.out.println("hex="+hex);
+		System.out.println("각 진수로 출력");
+		System.out.println("dec를 2진수 => "+Integer.toBinaryString(dec));
+		System.out.println("dec를 8진수 => "+Integer.toOctalString(dec));
+		System.out.println("dec를 16진수 => "+Integer.toHexString(dec));
+	}
+}

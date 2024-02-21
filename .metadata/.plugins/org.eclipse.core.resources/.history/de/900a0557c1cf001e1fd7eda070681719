@@ -1,0 +1,7 @@
+package org.kh.site;
+//대입 연산
+public class Operation3 {
+	public static void main(String[] args) {
+		
+	}
+}

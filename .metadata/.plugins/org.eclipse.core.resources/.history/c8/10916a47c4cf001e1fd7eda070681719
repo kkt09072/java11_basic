@@ -1,0 +1,7 @@
+package org.kh.site;
+//관계(비교) 연산자 : ==, !=, >(초과), >=(이상), <(미만), <=(이하)
+public class Operation5 {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	}
+}

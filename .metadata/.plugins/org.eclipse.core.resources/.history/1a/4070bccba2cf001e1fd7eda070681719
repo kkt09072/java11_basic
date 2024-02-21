@@ -1,0 +1,10 @@
+package org.kh.java;
+
+public class Variable5 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
