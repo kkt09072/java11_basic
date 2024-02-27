@@ -9,4 +9,11 @@
 	</section>
 	<section name="NewWizardAction">
 	</section>
+	<section name="InstallationDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="63"/>
+		<item key="DIALOG_Y_ORIGIN" value="-46"/>
+		<item key="DIALOG_WIDTH" value="993"/>
+		<item key="DIALOG_HEIGHT" value="740"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
 </section>

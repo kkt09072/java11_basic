@@ -1,7 +1,0 @@
-package org.kh.java;
-//형 변환1(Auto Casting, Force Casting) = type conversion
-public class Casting1 {
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-	}
-}

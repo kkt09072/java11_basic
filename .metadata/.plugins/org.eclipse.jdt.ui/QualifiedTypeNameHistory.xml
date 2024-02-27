@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="java.lang.Character"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="sec2.Animal"/>
+    <fullyQualifiedTypeName name="sec2.Mammal"/>
+    <fullyQualifiedTypeName name="sec2.Birds"/>
 </qualifiedTypeNameHistroy>

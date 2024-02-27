@@ -6,9 +6,10 @@ public class Mysql implements Database {
 	final static int PORT = 3306;
 	final static String ID = "root";
 	final static String PW = "1234";
+	final static String DB = "company";
 	@Override
 	public void connect(String url, String port, String id, String pw) {
-		System.out.println(url+":"+port+"/login_DB?serverTimezone=UTC/"+id+";"+pw);
+		System.out.println(url+":"+port+"/login_DB?serverTimezone=UTC/"+DB+";"+pw);
 		System.out.println("MySQL 데이터베이스가 성공적으로 연결되었습니다.");
 	}
 	@Override

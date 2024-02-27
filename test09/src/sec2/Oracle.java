@@ -4,7 +4,7 @@ public class Oracle implements Database {
 	final static String DRIVER = "oracle.jdbc.driver.OracleDriver";
 	final static String URL = "jdbc:oracle:thin:@localhost";
 	final static int PORT = 1521;
-	final static String PID = "xe";
+	final static String PID = "xe";	//orcl
 	final static String ID = "system";
 	final static String PW = "1234";
 	@Override
