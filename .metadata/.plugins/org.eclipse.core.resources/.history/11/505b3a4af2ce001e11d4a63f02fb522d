@@ -1,8 +1,0 @@
-package org.kh.java;
-
-public class Hello {
-	public static void main(String[] args) {
-		System.out.println("Hello~! \nJAVA~!");
-		System.out.println("My name is KiTae1004");
-	}
-}
