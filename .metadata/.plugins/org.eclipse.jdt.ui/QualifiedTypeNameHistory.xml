@@ -6,4 +6,11 @@
     <fullyQualifiedTypeName name="sec2.Animal"/>
     <fullyQualifiedTypeName name="sec2.Mammal"/>
     <fullyQualifiedTypeName name="sec2.Birds"/>
+    <fullyQualifiedTypeName name="sec2.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec2.Television"/>
+    <fullyQualifiedTypeName name="sec3.Scheduler"/>
+    <fullyQualifiedTypeName name="sec3.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="sec3.RoundRobin"/>
+    <fullyQualifiedTypeName name="sec3.LeastJob"/>
+    <fullyQualifiedTypeName name="exam04.Amateur"/>
 </qualifiedTypeNameHistroy>
