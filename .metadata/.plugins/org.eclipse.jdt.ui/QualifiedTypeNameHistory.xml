@@ -14,4 +14,10 @@
     <fullyQualifiedTypeName name="sec3.LeastJob"/>
     <fullyQualifiedTypeName name="exam04.Amateur"/>
     <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="sec1.GenericPrint"/>
+    <fullyQualifiedTypeName name="sec1.Plastic"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Enumeration"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
 </qualifiedTypeNameHistroy>
